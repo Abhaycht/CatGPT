@@ -82,7 +82,7 @@ return (
         {uniqueTitles?.map((uniqueTitle, index) => <li key={index} onClick={() => handleClick(uniqueTitle)}>{uniqueTitle}</li>) }
       </ul>
       <nav>
-        <p>Made by Abhay</p>
+        <p><a href="https://abhay-portfolio.webflow.io/">Made by Abhay</a></p>
       </nav>
     </section>
     <section className="main">

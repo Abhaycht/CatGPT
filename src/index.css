@@ -128,3 +128,7 @@ input:focus {
 .feed p.role {
   min-width: 100px;
 }
+
+nav a {
+  text-decoration: none;
+}
